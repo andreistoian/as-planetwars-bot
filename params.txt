@@ -1,0 +1,14 @@
+power.growthCoef=0
+power.shipsCoef=1
+power.wantBalance=1.1
+graph.distPower=1.2
+risk.NumShipsCoef=1
+risk.GrowthCoef=5
+attack.shipsRatio=1.3
+center.axisPerpCoef=10
+center.axisDirectCoef=5.000
+center.growthCoef=5
+center.numShipsCoef=0.700
+turn0.gamble_planets=2
+turn0.center_ships=20
+turn0.min_ships=10

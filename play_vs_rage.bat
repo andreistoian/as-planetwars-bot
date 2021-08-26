@@ -1,0 +1,1 @@
+java -jar tools\PlayGame.jar maps/map4.txt 1000 1000 log.txt "java -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 -jar AndreiBot.jar" "java -jar example_bots\RageBot.jar" | java -jar tools/ShowGame.jar
