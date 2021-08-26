@@ -1,0 +1,1 @@
+java -jar tools\PlayGame.jar mapsnew/map5.txt 1000 200 log.txt "java -jar AndreiBot.jar debug perf" "java -jar example_bots\BullyBot.jar" | java -jar tools/ShowGame.jar

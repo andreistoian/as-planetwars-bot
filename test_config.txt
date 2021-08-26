@@ -1,0 +1,13 @@
+online.pass=asd
+online.user=asbadrobot
+global.botcmd=java -jar AndreiBot.jar debug
+global.botdbgcmd=java -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005 -jar AndreiBot.jar debug
+vis.width=585
+vis.height=771
+vis.x=189
+online.server=72.44.46.68
+vis.y=66
+online.port=995
+vis.state=Normal
+web.gameinfo=http://ai-contest.com/game_info.php?game_id=
+test.timeout=1000
